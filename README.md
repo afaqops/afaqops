@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C9FF,100:6A5ACD&text=Shahmeer%20Afaq&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn"/>
 
-# 👋 Hey, I'm Shahmeer Afaq
+#  Fellaz 👋, I'm Shahmeer Afaq
 
-### 💻 Software Engineering Student | 🚀 Future Full Stack Developer
+### 💻 Software Engineering Student 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Code.+Sleep.+Repeat.+💀;Software+Engineering+Student;C%2B%2B+Developer;Python+Developer;Building+Projects+One+Commit+at+a+Time.;Always+Learning+New+Things+🚀"/>
 
@@ -19,20 +19,25 @@ class ShahmeerAfaq
 {
 public:
 
-    string University = "Software Engineering";
+    string Field = "Software Engineering";
 
-    string Goal = "Become a Full Stack Developer";
+   
 
-    string Skills[8] =
+    string Skills[13] =
     {
         "C++",
+        "C",
         "Python",
         "C#",
+        "Java"
         "JavaScript",
+        "NodeJs",
         "HTML",
         "CSS",
         "SQL",
         "OpenGL"
+        "Go",
+        "React",
     };
 
     string Motto = "Code. Sleep. Repeat.";
