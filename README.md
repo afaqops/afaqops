@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C9FF,100:6A5ACD&text=Shahmeer%20Afaq&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C9FF,100:6A5ACD&text=Afaq&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn"/>
 
-#  Fellaz 👋, I'm Shahmeer Afaq
+# 👋 Fellaz, I'm Shahmeer Afaq
 
-### 💻 Software Engineering Student 
+### 💻 Software Engineering Student
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Code.+Sleep.+Repeat.+💀;Software+Engineering+Student;C%2B%2B+Developer;Python+Developer;Building+Projects+One+Commit+at+a+Time.;Always+Learning+New+Things+🚀"/>
 
@@ -21,23 +21,21 @@ public:
 
     string Field = "Software Engineering";
 
-   
-
     string Skills[13] =
     {
         "C++",
         "C",
         "Python",
         "C#",
-        "Java"
+        "Java",
         "JavaScript",
-        "NodeJs",
+        "Node.js",
         "HTML",
         "CSS",
         "SQL",
-        "OpenGL"
+        "OpenGL",
         "Go",
-        "React",
+        "React"
     };
 
     string Motto = "Code. Sleep. Repeat.";
@@ -50,7 +48,7 @@ public:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahmeer-Afaq&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=afaqops&theme=tokyo-night"/>
 
 </p>
 
@@ -72,7 +70,7 @@ public:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,js,ts,react,nextjs,nodejs,html,css,mysql,git,github,linux,figma,go,opencv"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,cs,java,python,js,ts,react,nextjs,nodejs,html,css,mysql,git,github,linux,figma,go,opencv"/>
 
 </p>
 
@@ -102,12 +100,15 @@ public:
 
 ---
 
-# 🏆 GitHub Profile Summary
+# 📊 GitHub Stats
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=afaqops&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afaqops&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahmeer-Afaq&theme=tokyonight"/>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=afaqops&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -116,7 +117,7 @@ public:
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Shahmeer-Afaq/Shahmeer-Afaq/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/afaqops/afaqops/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -126,7 +127,7 @@ public:
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Shahmeer-Afaq&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=afaqops&style=for-the-badge&color=blueviolet"/>
 
 </p>
 
